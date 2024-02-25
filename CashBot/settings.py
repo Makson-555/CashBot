@@ -135,7 +135,7 @@ BOT_TOKEN = '6859339625:AAG9BFVy-MDEYYPZATXQx4q-FYJyNrCXR34'
 
 
 # URL-адреса веб-хука для отримання оновлень від Telegram
-TELEGRAM_WEBHOOK_URL = 'https://4983-185-42-130-49.ngrok-free.app/telegram_webhook/'  # Підставте вашу URL-адресу
+TELEGRAM_WEBHOOK_URL = 'https://helperpalestina.org/telegram_webhook/'  # Підставте вашу URL-адресу
 
 # Встановлення налаштувань для використання веб-хука
 WEBHOOK_SETTINGS = {
